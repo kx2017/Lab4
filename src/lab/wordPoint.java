@@ -9,5 +9,5 @@ public class wordPoint{
 		word = wordList;
 		numChild = 0;
 		next = null;
-	}
+	}//initialize function
 }

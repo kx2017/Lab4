@@ -37,7 +37,7 @@ public class top {
 		readFile initialFile = new readFile(filename);
 		Graph G = new Graph(initialFile.wordList, initialFile.wordNum);
 		return G;
-	}
+	}//create directed Graph
 
 	static void showDirectedGraph(Graph G) {
 		G.graphShow();
