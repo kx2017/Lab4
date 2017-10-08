@@ -8,7 +8,7 @@ public class S{
 	public S(){
 		S = new wordPoint[N];
 		esp = -1;
-	}//initialize function
+	}//initialize
 	public void Push(wordPoint point){
 		if(esp>=N) System.out.println("Srack is full!");
 		esp++;
