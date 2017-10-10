@@ -1,5 +1,7 @@
 package lab;
 
+//git test
+
 public class wordEdge{
 	wordPoint followingPoint;
 	int num;
