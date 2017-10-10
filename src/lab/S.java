@@ -1,5 +1,5 @@
 package lab;
-
+//b2 branch edit
 
 public class S{
 	final static int N=100;
