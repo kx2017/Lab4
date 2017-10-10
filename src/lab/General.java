@@ -7,4 +7,4 @@ public class General{
 		next = new General[26];
 		real = null;
 	}
-}
+}//edit C4 branch
