@@ -1,5 +1,5 @@
 package lab;
-
+//B2 branch edit
 public class General{
 	General[] next;
 	wordPoint real;
