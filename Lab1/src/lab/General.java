@@ -1,4 +1,5 @@
 package lab;
+//git test
 
 public class General{
 	General[] next;
