@@ -6,5 +6,5 @@ public class General{
 	public General(){
 		next = new General[26];
 		real = null;
-	}
+	}//edit B1 branch
 }
