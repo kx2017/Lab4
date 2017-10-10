@@ -1,5 +1,7 @@
 package lab;
 
+//test for B2
+
 public class wordEdge{
 	wordPoint followingPoint;
 	int num;
