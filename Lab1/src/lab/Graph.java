@@ -1,4 +1,7 @@
 package lab;
+
+//test for B2
+
 import java.io.*;
 import java.util.*;
 

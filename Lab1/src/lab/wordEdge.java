@@ -1,6 +1,6 @@
 package lab;
 
-//git test
+//test for B2
 
 public class wordEdge{
 	wordPoint followingPoint;
