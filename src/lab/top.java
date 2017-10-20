@@ -440,7 +440,7 @@ public class top {
                   "Overwrite file", JOptionPane.CLOSED_OPTION);
             } else {
               String resultString = generateNewText(G, stringInput);
-              if (resultString == "") {
+              if (resultString.equals("")) {
                 JOptionPane.showConfirmDialog(null, "请重新输入文本",
                     "Overwrite file", JOptionPane.CLOSED_OPTION);
               }
